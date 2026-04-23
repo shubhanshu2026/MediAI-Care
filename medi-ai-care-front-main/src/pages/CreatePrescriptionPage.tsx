@@ -61,7 +61,7 @@ export default function CreatePrescriptionPage() {
       if (mode === 'file') {
         if (!file) { toast.error('Please select a file to upload.'); return; }
         const fd = new FormData();
-        fd.append('doctorId',  String(effectiveDoctorId));
+        fd.append('doctorId',  String(user?.id));
         fd.append('patientId', patientId.trim());
         fd.append('diagnosis', diagnosis);
         fd.append('file', file);
@@ -72,7 +72,7 @@ export default function CreatePrescriptionPage() {
           return;
         }
         await createPrescription({
-          doctorId:  effectiveDoctorId,
+          doctorId:  user?.id,
           patientId: patientId.trim(),
           diagnosis,
           medicines,
