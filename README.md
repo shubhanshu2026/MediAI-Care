@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🩺 MediAI-Care</h1>
-  <p><strong>A Next-Generation AI-Powered Healthcare Assistant</strong></p>
+  <p><strong>AI-Powered Healthcare Platform</strong></p>
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
