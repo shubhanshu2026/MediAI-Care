@@ -1,0 +1,45 @@
+fever,cough,fatigue,headache,chest_pain,shortness_of_breath,nausea,vomiting,diarrhea,weight_loss,itching,rash,joint_pain,abdominal_pain,disease,severity,doctor
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,Flu,Medium,General Physician
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,COVID-19,High,Pulmonologist
+1,0,1,1,0,0,1,1,1,0,0,0,0,1,Gastroenteritis,Medium,Gastroenterologist
+0,0,1,1,0,0,1,0,0,0,0,0,0,0,Migraine,Medium,Neurologist
+0,0,0,0,1,1,0,0,0,0,0,0,0,0,Heart Attack,High,Cardiologist
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,Bronchitis,Medium,Pulmonologist
+0,0,0,0,0,0,0,0,0,0,1,1,0,0,Allergy,Low,Dermatologist
+0,0,0,0,0,0,0,0,0,0,1,1,0,0,Eczema,Low,Dermatologist
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,Diabetes,High,Endocrinologist
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,Arthritis,Medium,Orthopedic
+1,0,1,0,0,0,0,0,0,0,0,0,1,0,Dengue,High,General Physician
+1,0,1,0,0,0,0,0,0,0,0,0,1,0,Malaria,High,General Physician
+1,1,1,0,0,1,0,0,0,1,0,0,0,0,Tuberculosis,High,Pulmonologist
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,Food Poisoning,Medium,Gastroenterologist
+0,0,0,0,0,0,0,0,0,0,1,1,0,0,Psoriasis,Low,Dermatologist
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,Thyroid Disorder,Medium,Endocrinologist
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,Tension Headache,Low,Neurologist
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,Asthma,High,Pulmonologist
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,Angina,High,Cardiologist
+0,0,1,0,0,0,1,0,1,0,0,0,0,1,Ulcer,Medium,Gastroenterologist
+0,0,1,0,0,0,0,0,0,0,0,0,1,0,Osteoporosis,Medium,Orthopedic
+0,0,0,0,0,0,0,0,0,0,1,1,0,0,Acne,Low,Dermatologist
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,Concussion,Medium,Neurologist
+1,0,1,0,0,0,1,0,0,0,0,0,0,1,Hepatitis,High,Gastroenterologist
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,Pneumonia,High,Pulmonologist
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,Anemia,Medium,General Physician
+0,0,0,0,0,0,0,0,0,0,1,1,0,0,Fungal Infection,Low,Dermatologist
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,Hypertension,High,Cardiologist
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,Back Pain,Low,Orthopedic
+1,1,1,1,0,0,0,0,0,0,0,0,0,0,Sinusitis,Medium,ENT Specialist
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,Vertigo,Medium,Neurologist
+0,0,1,0,0,0,1,0,0,0,0,0,0,1,Appendicitis,High,Surgeon
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,Gout,Medium,Orthopedic
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,Cancer,High,Oncologist
+1,0,1,0,0,0,1,1,1,0,0,0,0,1,Typhoid,High,General Physician
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,Cluster Headache,Medium,Neurologist
+0,0,0,0,0,0,0,0,0,0,1,1,0,0,Scabies,Low,Dermatologist
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,Chronic Fatigue Syndrome,Medium,General Physician
+0,0,0,0,0,0,0,0,0,0,1,1,0,0,Hives,Low,Dermatologist
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,COPD,High,Pulmonologist
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,Brain Tumor,High,Neurologist
+0,0,1,0,0,0,1,0,1,0,0,0,0,1,IBS,Medium,Gastroenterologist
+0,0,0,0,1,1,0,0,0,0,0,0,0,0,Heart Failure,High,Cardiologist
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,Obesity,Medium,General Physician
